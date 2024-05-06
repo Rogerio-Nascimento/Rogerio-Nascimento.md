@@ -8,7 +8,7 @@
 - 🌱 Tecnologo em informatica para negócios pela FATEC SBC
 
 
-### Minhas Estatísticas Públicas
+### Minhas habilidades e especialidades
 📱 **Especialidades:**
 - 📚   
 - Alteryx;
@@ -33,6 +33,6 @@
 ### Principais Projetos
 ### 📌 Projetos em Destaque
 
-[![Readme Card](![Projeto Automacao](https://github.com/Rogerio-Nascimento/Rogerio-Nascimento.md/assets/87660080/87573a2e-69e2-4f97-b823-fa11e344bc07)
-)](https://github.com/Rogerio-Nascimento/Projeto_Automacao_Procedures)
+[![Readme Card](https://github.com/Rogerio-Nascimento/Rogerio-Nascimento.md/assets/87660080/87573a2e-69e2-4f97-b823-fa11e344bc07)
+](https://github.com/Rogerio-Nascimento/Projeto_Automacao_Procedures)
 
