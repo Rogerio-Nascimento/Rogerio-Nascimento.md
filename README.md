@@ -9,24 +9,24 @@
 
 
 ### Minhas Estatísticas Públicas
-📱 **Especialidades**
+📱 **Especialidades:**
 - 📚   
-•	Alteryx;
-•	Python;
-•	Banco de dados SQL server;
-•	Oracle;
-•	DevOps;
-•	Azure;
-•	Apache Spark;
-•	Apache Airflow;
-•	Google Analytics;
-•	Orange;
-•	Pentaho;
-•	Tableau;
-•	Linguagem R;
-•	Power BI (Power query, DAX, M, Relacionamentos e cardinalidades);
-•	Excel;
-•	Sistemas tributários. 
+- Alteryx;
+-	Python;
+-	Banco de dados SQL server;
+-	Oracle;
+-	DevOps;
+-	Azure;
+-	Apache Spark;
+-	Apache Airflow;
+-	Google Analytics;
+-	Orange;
+-	Pentaho;
+-	Tableau;
+-	Linguagem R;
+-	Power BI (Power query, DAX, M, Relacionamentos e cardinalidades);
+-	Excel;
+-	Sistemas tributários. 
 
 
 
@@ -35,7 +35,3 @@
 
 [![Readme Card]()](https://github.com/Rogerio-Nascimento/Projeto_Automacao_Procedures)
 
-### Minhas Linguagens 🤩
-### 🚀 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact)
